@@ -7,5 +7,4 @@ REACT_APP_RAPIDAPI_KEY=your api key here
 
 you will also need to update the index.html page to reflect you google maps api key as well
 
-screenshot
 ![screenshot](https://raw.githubusercontent.com/anatoli-dp/destination-plus/main/screenshot.png)
